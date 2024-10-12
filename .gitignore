@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# .env files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# MacOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.out
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other
+*.bak
+*.swp
+*.tmp
